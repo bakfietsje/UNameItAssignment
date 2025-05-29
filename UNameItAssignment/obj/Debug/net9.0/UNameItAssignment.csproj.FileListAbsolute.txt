@@ -111,3 +111,4 @@ C:\Users\VictorLuijt\Documents\Prive\UNameItAssignment\UNameItAssignment\obj\Deb
 C:\Users\VictorLuijt\Documents\Prive\UNameItAssignment\UNameItAssignment\bin\Debug\net9.0\FluentValidation.dll
 C:\Users\VictorLuijt\Documents\Prive\UNameItAssignment\UNameItAssignment\bin\Debug\net9.0\FluentValidation.AspNetCore.dll
 C:\Users\VictorLuijt\Documents\Prive\UNameItAssignment\UNameItAssignment\bin\Debug\net9.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\VictorLuijt\Documents\Prive\UNameItAssignment\UNameItAssignment\obj\Debug\net9.0\UNameItAssignment.sourcelink.json

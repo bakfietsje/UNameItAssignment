@@ -7,7 +7,6 @@ using UNameItAssignment.Requests;
 
 namespace UNameItAssignment.Controllers;
 
-[ApiController]
 [Route("api/[controller]")]
 public class WordCloudController(IMediator mediator) : ControllerBase
 {

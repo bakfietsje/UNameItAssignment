@@ -24,5 +24,3 @@ FROM mcr.microsoft.com/dotnet/aspnet:9.0 AS final
 WORKDIR /app
 COPY --from=publish /app/publish .
 ENTRYPOINT ["dotnet", "UNameItAssignment.dll"]
-
-// CHECK OF API WERKT
