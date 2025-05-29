@@ -8,33 +8,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6cd996dd-f636-4d7a-94ac-af73439056d1" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.UNameItAssignment/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.UNameItAssignment/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UNameItAssignment/Controllers/WordCloudController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/UNameItAssignment/Controllers/WordCloudController.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UNameItAssignment/Validations/GetWordCountValidator.cs" beforeDir="false" afterPath="$PROJECT_DIR$/UNameItAssignment/Validations/GetWordCountValidator.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UNameItAssignment/bin/Debug/net9.0/UNameItAssignment.dll" beforeDir="false" afterPath="$PROJECT_DIR$/UNameItAssignment/bin/Debug/net9.0/UNameItAssignment.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UNameItAssignment/bin/Debug/net9.0/UNameItAssignment.exe" beforeDir="false" afterPath="$PROJECT_DIR$/UNameItAssignment/bin/Debug/net9.0/UNameItAssignment.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UNameItAssignment/bin/Debug/net9.0/UNameItAssignment.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/UNameItAssignment/bin/Debug/net9.0/UNameItAssignment.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UNameItAssignment/bin/Debug/net9.0/UNameItAssignment.staticwebassets.endpoints.json" beforeDir="false" afterPath="$PROJECT_DIR$/UNameItAssignment/bin/Debug/net9.0/UNameItAssignment.staticwebassets.endpoints.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UNameItAssignment/obj/Debug/net9.0/UNameItAssignment.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/UNameItAssignment/obj/Debug/net9.0/UNameItAssignment.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UNameItAssignment/obj/Debug/net9.0/UNameItAssignment.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/UNameItAssignment/obj/Debug/net9.0/UNameItAssignment.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UNameItAssignment/obj/Debug/net9.0/UNameItAssignment.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/UNameItAssignment/obj/Debug/net9.0/UNameItAssignment.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UNameItAssignment/obj/Debug/net9.0/UNameItAssignment.dll" beforeDir="false" afterPath="$PROJECT_DIR$/UNameItAssignment/obj/Debug/net9.0/UNameItAssignment.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UNameItAssignment/obj/Debug/net9.0/UNameItAssignment.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/UNameItAssignment/obj/Debug/net9.0/UNameItAssignment.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UNameItAssignment/obj/Debug/net9.0/apphost.exe" beforeDir="false" afterPath="$PROJECT_DIR$/UNameItAssignment/obj/Debug/net9.0/apphost.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UNameItAssignment/obj/Debug/net9.0/rbcswa.dswa.cache.json" beforeDir="false" afterPath="$PROJECT_DIR$/UNameItAssignment/obj/Debug/net9.0/rbcswa.dswa.cache.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UNameItAssignment/obj/Debug/net9.0/ref/UNameItAssignment.dll" beforeDir="false" afterPath="$PROJECT_DIR$/UNameItAssignment/obj/Debug/net9.0/ref/UNameItAssignment.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UNameItAssignment/obj/Debug/net9.0/refint/UNameItAssignment.dll" beforeDir="false" afterPath="$PROJECT_DIR$/UNameItAssignment/obj/Debug/net9.0/refint/UNameItAssignment.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UNameItAssignment/obj/Debug/net9.0/rjimswa.dswa.cache.json" beforeDir="false" afterPath="$PROJECT_DIR$/UNameItAssignment/obj/Debug/net9.0/rjimswa.dswa.cache.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UNameItAssignment/obj/Debug/net9.0/rjsmcshtml.dswa.cache.json" beforeDir="false" afterPath="$PROJECT_DIR$/UNameItAssignment/obj/Debug/net9.0/rjsmcshtml.dswa.cache.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UNameItAssignment/obj/Debug/net9.0/rjsmrazor.dswa.cache.json" beforeDir="false" afterPath="$PROJECT_DIR$/UNameItAssignment/obj/Debug/net9.0/rjsmrazor.dswa.cache.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UNameItAssignment/obj/Debug/net9.0/rpswa.dswa.cache.json" beforeDir="false" afterPath="$PROJECT_DIR$/UNameItAssignment/obj/Debug/net9.0/rpswa.dswa.cache.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UNameItAssignment/obj/Debug/net9.0/staticwebassets.build.endpoints.json" beforeDir="false" afterPath="$PROJECT_DIR$/UNameItAssignment/obj/Debug/net9.0/staticwebassets.build.endpoints.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UNameItAssignment/obj/Debug/net9.0/staticwebassets.build.json" beforeDir="false" afterPath="$PROJECT_DIR$/UNameItAssignment/obj/Debug/net9.0/staticwebassets.build.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UNameItAssignment/obj/Debug/net9.0/staticwebassets.build.json.cache" beforeDir="false" afterPath="$PROJECT_DIR$/UNameItAssignment/obj/Debug/net9.0/staticwebassets.build.json.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UNameItAssignment/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/UNameItAssignment/obj/rider.project.restore.info" afterDir="false" />
-    </list>
+    <list default="true" id="6cd996dd-f636-4d7a-94ac-af73439056d1" name="Changes" comment="init" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,6 +18,11 @@
     <option name="firstShow" value="false" />
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Bakfietsje Naam &lt;bakfietsje@github.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GithubDefaultAccount">
@@ -161,7 +140,15 @@
       <option name="project" value="LOCAL" />
       <updated>1748550050410</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="init">
+      <option name="closed" value="true" />
+      <created>1748552214479</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1748552214479</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
